@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.2935067">
+  <PropertyGroup>
+    <StartupCommand>npm start</StartupCommand>
+    <JavaScriptTestRoot>src\</JavaScriptTestRoot>
+    <JavaScriptTestFramework>Jasmine</JavaScriptTestFramework>
+    <ShouldRunBuildScript>false</ShouldRunBuildScript>
+    <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\calculator-angular-react\browser</BuildOutputFolder>
+  </PropertyGroup>
+</Project>
